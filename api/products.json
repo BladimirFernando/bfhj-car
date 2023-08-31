@@ -1,0 +1,92 @@
+[
+  {
+   "price": 299,
+    "id":1,
+    "title": "coca cola",
+    "urlImage": "https://picsum.photos/id/0/600"
+  }, 
+
+  {
+    "price": 269,
+    "id":2,
+    "title": "nescafe",
+    "urlImage": "https://picsum.photos/id/23/600"
+  },
+
+  {
+    "price": 129,
+    "id":3,
+    "title": "sidral",
+    "urlImage": "https://picsum.photos/id/32/600"
+  },
+
+  {
+    "price": 389,
+    "id":4,
+    "title": "emperador",
+    "urlImage": "https://picsum.photos/id/45/600"
+  },
+
+  {
+    "price": 219,
+    "id":5,
+    "title": "chokis",
+    "urlImage": "https://picsum.photos/id/124/600"
+  },
+
+  {
+    "price": 199,
+    "id":6,
+    "title": "pinguinos",
+    "urlImage": "https://picsum.photos/id/785/600"
+  },
+
+  {
+    "price": 177,
+    "id":7,
+    "title": "paleta",
+    "urlImage": "https://picsum.photos/id/36/600"
+  },
+
+  {
+    "price": 235,
+    "id":8,
+    "title": "cacahuates",
+    "urlImage": "https://picsum.photos/id/455/600"
+  },
+
+  {
+    "price": 439,
+    "id":9,
+    "title": "doritos",
+    "urlImage": "https://picsum.photos/id/74/600"
+  },
+
+  {
+    "price": 111,
+    "id":10,
+    "title": "snikers",
+    "urlImage": "https://picsum.photos/id/457/600"
+  },
+
+  {
+    "price": 100,
+    "id":11,
+    "title": "cerveza",
+    "urlImage": "https://picsum.photos/id/47/600"
+  },
+
+  {
+    "price": 159,
+    "id":12,
+    "title": "chetos",
+    "urlImage": "https://picsum.photos/id/124/600"
+  },
+  {
+    "price": 99,
+    "id":13,
+    "title": "takis",
+    "urlImage": "https://picsum.photos/id/78/600"
+  }
+
+]

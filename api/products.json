@@ -1,29 +1,29 @@
 [
   {
-   "price": 299,
+   "price": 550,
     "id":1,
-    "title": "coca cola",
+    "title": "Jugo dle valle",
     "urlImage": "https://picsum.photos/id/0/600"
   }, 
 
   {
-    "price": 269,
+    "price": 550,
     "id":2,
-    "title": "nescafe",
-    "urlImage": "https://picsum.photos/id/23/600"
+    "title": "Takis",
+    "urlImage": "https://picsum.photos/id/53/600"
   },
 
   {
-    "price": 129,
+    "price": 1000,
     "id":3,
-    "title": "sidral",
-    "urlImage": "https://picsum.photos/id/32/600"
+    "title": "Laptop",
+    "urlImage": "https://picsum.photos/id/982/600"
   },
 
   {
     "price": 389,
     "id":4,
-    "title": "emperador",
+    "title": "Emperador",
     "urlImage": "https://picsum.photos/id/45/600"
   },
 
